@@ -1,3 +1,5 @@
 mapillary
 python-dotenv
 requests
+pandas
+geopandas
