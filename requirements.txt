@@ -3,3 +3,7 @@ python-dotenv
 requests
 pandas
 geopandas
+h3
+pyarrow
+pillow
+duckdb
