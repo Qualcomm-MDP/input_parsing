@@ -2328,6 +2328,10 @@
         "min_heading_change_deg": 5.0,
         "max_keep_per_facade": 40
       },
+      "filters": {
+        "remove_inside_building": true,
+        "remove_dark_photos": true
+      },
       "policy": [
         "compute top-K building candidates per image (distance+heading+inside)",
         "assign only if passes geom visibility gate",

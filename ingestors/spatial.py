@@ -6,7 +6,7 @@ import math
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
-
+from datetime import datetime, timezone
 
 # -----------------------------
 # Small geo helpers
@@ -110,6 +110,31 @@ def point_in_polygon(lat: float, lon: float, polygon_latlon: List[Tuple[float, f
             if x < xinters:
                 inside = not inside
     return inside
+
+
+def is_approx_daylight(lat: float, lon: float, captured_at_ms: Optional[int]) -> bool:
+    """
+    Checks if photo was likely taken during the day.
+    Uses approx local solar time (UTC + lon/15).
+    Rejects if before 7am or after 7pm local solar time.
+    """
+    if captured_at_ms is None:
+        return True # Default to keep if no time data
+
+    try:
+        # Mapillary captured_at is usually milliseconds epoch
+        dt_utc = datetime.fromtimestamp(captured_at_ms / 1000.0, tz=timezone.utc)
+        
+        # Approx offset in hours (15 degrees = 1 hour)
+        hour_offset = lon / 15.0
+        local_hour = (dt_utc.hour + (dt_utc.minute / 60.0) + hour_offset) % 24
+        
+        # Strict daylight window: 7:00 AM to 7:00 PM
+        if 7.0 <= local_hour <= 19.0:
+            return True
+        return False
+    except Exception:
+        return True # Fallback if parsing fails
 
 
 def point_to_segment_distance_m(
@@ -300,11 +325,10 @@ def mapillary_pose(img: Dict[str, Any]) -> Optional[Dict[str, Any]]:
     }
 
 
-def score_candidate(distance_m: float, heading_delta_deg: float, inside: bool) -> float:
+def score_candidate(distance_m: float, heading_delta_deg: float) -> float:
     """Simple scoring to rank candidates."""
     score = 0.0
-    if inside:
-        score += 2.0
+    # Note: 'inside' is no longer scored here because we filter it out earlier
 
     # distance contribution
     if distance_m <= 15:
@@ -392,11 +416,29 @@ def spatial_join_one_coordinate(
             continue
 
         cam_lat, cam_lon, heading = pose["lat"], pose["lon"], pose["heading"]
+        captured_at = pose["captured_at"]
+
+        # 1. NEW FILTER: DAYLIGHT CHECK
+        if not is_approx_daylight(cam_lat, cam_lon, captured_at):
+             joined_images.append({
+                "image_id": image_id,
+                "url": url,
+                "pose": pose,
+                "best_candidate": None,
+                "candidates": [],
+                "passes_geom_visibility": False,
+                "reason": "darkness",
+            })
+             continue
 
         candidates = []
         for b in buildings:
             poly = b["footprint_latlon"]
-            inside = point_in_polygon(cam_lat, cam_lon, poly)
+            
+            # 2. NEW FILTER: INSIDE CHECK
+            # If camera is INSIDE the building polygon, skip it (likely GPS error or interior shot)
+            if point_in_polygon(cam_lat, cam_lon, poly):
+                continue
 
             # Edge-based metrics
             ei = nearest_edge_info(cam_lat, cam_lon, poly)
@@ -406,7 +448,9 @@ def spatial_join_one_coordinate(
             # Bearing from camera to closest point on facade
             b_cam_to_cp = bearing_deg(cam_lat, cam_lon, ei.closest_point_lat, ei.closest_point_lon)
             heading_delta = angle_diff_deg(heading, b_cam_to_cp)
-            sc = score_candidate(ei.distance_m, heading_delta, inside)
+            
+            # Updated score (no longer passes 'inside' var)
+            sc = score_candidate(ei.distance_m, heading_delta)
 
             candidates.append({
                 "osm_id": b["osm_id"],
@@ -417,7 +461,7 @@ def spatial_join_one_coordinate(
                 "heading_delta_deg": round(heading_delta, 2),
                 "edge_bearing_deg": round(ei.edge_bearing_deg, 2),
                 "facade_normal_deg": round(ei.facade_normal_deg, 2),
-                "inside_polygon": bool(inside),
+                "inside_polygon": False, # Always false now because we skip insides
                 "visibility_score": round(sc, 3),
             })
 
@@ -433,7 +477,7 @@ def spatial_join_one_coordinate(
                 "best_candidate": None,
                 "candidates": [],
                 "passes_geom_visibility": False,
-                "reason": "no_candidates",
+                "reason": "no_candidates_or_inside_all",
             })
             continue
 
@@ -522,6 +566,10 @@ def spatial_join_one_coordinate(
             "min_move_m": 2.0,
             "min_heading_change_deg": 5.0,
             "max_keep_per_facade": max_keep_per_facade,
+        },
+        "filters": {
+             "remove_inside_building": True,
+             "remove_dark_photos": True
         },
         "policy": [
             "compute top-K building candidates per image (distance+heading+inside)",
