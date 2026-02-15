@@ -1,0 +1,481 @@
+[
+  {
+    "coordinate_id": null,
+    "images": [
+      {
+        "image_id": "2634432470097217",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An91l761lg82ws9wSERp5uXG00MXImn5M3OS_CaNcPJXn5BKYmt2VkdTd8hm9I0v7DLWgUrh9HLySVuJ4rpDY66hfCRxDPGrtYYD5_yHBy2B8daubNbSwqSsoQWTi-0h17qgKNZJHjG0IMG01blrpA?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdlFjqnJKM0Kv4WoJGOzJ6Egia0HbBdug3CfRpssoRB90_T34yVWjVfKUcbA6VhiR5I&ccb=10-6&oh=00_AfvsoyMacMMrHbpC_fnIWT-hhpnCH6yF8nh8AiUgu-kMBQ&oe=69B71DC5&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 15.47
+      },
+      {
+        "image_id": "970528831217635",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-SNXWzfSMltjDG0RbzQVLxe6V6DwaO4r_PRL2qdfUfjJunTvU520vOz9EjQKS2XoGjRZs_1g17B0ABN0LhkD0sdyNZ40vcPobT-53D9mXar8iiUXMWHIE9MrdSMirqn5ZXNP5WUMlZvNAOK9IJCm4?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdmlkEnNgkJpomP1O-IXQVbENG7AIFLLxQrPLalrGA4gCERBBDSYr69m-sVZFcbbicM&ccb=10-5&oh=00_Afu89uN268oGHblvAOZSPl5gKc6HGSQfbK2VZDebEQAZ7Q&oe=69B6FFB4&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 20.09
+      },
+      {
+        "image_id": "1761041441089467",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-WNf8mfzv0pOKD-Tqhv5XBrSnJNdD_goRhFg83KnZBXd8hL_GvOkfcjgEyXJz2fp7NkfleRWqYsLCwIgMt9bIIyIq90OaAXpG3DZFdKIzDIqvT8dpya4xRB9UsqqLF6Weop1JC8j8FVWWM9ZIU6Uk?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdmXWmuPMsb7uhxVu_2HoNJtPX8AyTWHS0FfTUFHFzTze5fDGSlgkQNwyPIkJK7_jUo&ccb=10-5&oh=00_Afs8MVPqY8Ag9OfX_L7Tejjsnjf_Tc83suIR8cowCqAUiQ&oe=69B71094&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 7.15
+      },
+      {
+        "image_id": "2059064464494998",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An_OW7hYHr2yfnNKuVD1SunQQz1T5UxOOzTMprjA92ARf8Ex0NqbtXuK07hCSa5reeFHzRl8mRz0BtFa9A12ZWClJIJtMuKxIrc_XyMMHqPpedG5St2AiK74DO2WPAtsuAC70gtyuWKU9sKHaTJwrw?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adnd9T1CXUx-W6KDz2Y2txV13127_DNAHppQYp70OXMVIViFg_3oTWi4DrtXQufRkSg&ccb=10-5&oh=00_Afu-QlnojyiNjrLbUQ9yK4DQflTJ4AqzhdS4wFwxGLPh7w&oe=69B72433&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 15.44
+      },
+      {
+        "image_id": "7912491675480634",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-d8rXzVx_8daqnVgiFNExkbaeCKzVNknNkY7Gb-2i2-6kzvpzWzgw3jO7FKOAib2JlKflvdylVzcYIwsgwCNdZ-aGl1YoZkPyh0ls85eV4XvFwVynAQWONWNzjraEkHJGhL2517G3msu1tRw_zBYk?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adk6VQuB9a47w7FeeJJ-EnN7ioQHwHorEsvZg1-5jlcewjhncDpGEpsovP6yW0nRmPA&ccb=10-6&oh=00_Afs61MPCVh3DvWOXNfxBDb4volTbyAUzLxY2cLm4iikwGA&oe=69B70C0A&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 19.95
+      },
+      {
+        "image_id": "1635962343842578",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An9FdVluX5uqDY_m0RUx6KmH7X33jO-wHM8kFDO-FRY45e1KkDWwnpZsUdxTOjypr9RPvhLtxH6Dk7Z-ZSD9PVkAH2P140lDWF7APtdk4SzzMYuxOHCpOOQXWiYCToHXRoIwQs2Nwy6PwS4PUUla-A?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adl93PXsWUTYYiny72RHbRuj68GxPHvQOaeBTUihExLkLtBv5FuAMJMln8A2314C37M&ccb=10-5&oh=00_Aftw0OaHja-in8QDtp6SLIYDNkIjEb-ugUKUuvmbFeFMtg&oe=69B72779&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 10.84
+      },
+      {
+        "image_id": "332158006593437",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An96R_LNy18MBnp3EA9t077irl3aQ0-zVT3inrChjSFe21ZwgImSTPp1WwPRtzVrd2K2nqNj-kG45A0He5ysH01DY_o7Tg1zg5EkGjEtQu34KKMZZcPaGfJP1XJWmHNamLrX_NcGRHVoLMUMsovUoAc?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdmHLi_eSxzqmU4aHgAnSzOpHPmjzSs52xcMA8NGJF-4br2p26ebD1zo_mQHWkptSXo&ccb=10-5&oh=00_AfsZmjVb1R4nn0pz4yphCmMYmf7dwFbXd4hHf5pR148W-Q&oe=69B71299&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 18.35
+      },
+      {
+        "image_id": "1247680126202077",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An_8MYCuRgA9i4WVLQbljafJUGWcNxww_sh74skCB-3zh72Ts_tsE7SVJlAkF3QD0Gb3vuIYy1-8OkFCddMW6m4OPWO82lzzML3iiDDF3DP7AIJ0o5SYY0IvAbSJHqXF_zHNVXd5gvL8QOXS_yqaNQ?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdnXQyoiUhnFW4WwGBCpyj6A5EiI146Ryn7-PnCbfmsnioCHdCbyYW-d7Hc_ZtaQP7g&ccb=10-5&oh=00_Aft4Y7apkpX9TFdFj5j3AQ1cLxBojDQuU-yZ9Q24Ma3QVQ&oe=69B6F636&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 8.4
+      },
+      {
+        "image_id": "1186931635666777",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-UGEwVqh_MbM_N3llij3Sc_XIILVtPUWMqrP4c-ntJWXVg6McDQM_sgqn9UjzVRPH3HFhFQ9sx4jyo0nSgu_gzXtWelaWtXY5Ss6lAsFnXxeQjdpVKUmJBVMR64XHZT2zJ9isrRjSatBURwxENvw?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdnjtclmR0zUTQwtp3esTinKG3cnsE3F7K6LM3CITNeb1SrfAA0WzjB-3OQOPmZZ8Vs&ccb=10-5&oh=00_Afu0sUi-SQ9MADjl_gM7BOovx-AdOtp9NglU_Qxg3ALaiQ&oe=69B70522&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 7.27
+      },
+      {
+        "image_id": "820058513401944",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An83kzhAwS1Q61cneuQVsFOgkt27z4w3vXmJcshB0d_y6uLafBZh0BX8BVrnsBjM9mFZRF9zzwqYA27A6BX4cuJ_Dj0oMPs6hDgxbN7BoChzLxDJdJ5t5oOLu7lI-x9JwAZkcI-fMpCMvgHTpmM0nQA?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdmqnxPnzTpndoLxHhCNAyviGAQIZxNwAhsBD9p9KrN4l9zmMZjtYK0Z8OofwHFMeg0&ccb=10-5&oh=00_AfvK_x_ej_GdnsUp2u1hl2qrHmgKJY4aVCVCVJUT3REpew&oe=69B6F646&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 16.81
+      },
+      {
+        "image_id": "1241741453685398",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8lgRxvwJhlnP2xhB37IAafnU_3YhRvtTlMC7e2PAXhn7Qy7H75dnsPj5nmAPYONRZBiwl5mjaFLPvZGDYw3D3T5AkTARIPOlW2-0bIQzLGdkFHAgW4fZpKk-eJHTN_8d8Tr0GBgxFvdeKDTv74_lk?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdnGoEVnu74PTd03KA2RYjoNlPW48Z7DN64Ma3sJla0Ir0RHgnaf-f_8SZUfss4S8Ws&ccb=10-6&oh=00_AfuTzq2ZSvIYEql4KJ7ZfqJNYETtLfwK6YlSlG1VEZtXYw&oe=69B6F516&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 7.25
+      },
+      {
+        "image_id": "1003385470744472",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-s03sNNdxjlWpJDaWuhe24wnNRLACVu-AKuQHBqKlhMNlYJ_LlPkWOv12xO-ov9yBH3dIkY7PCm3wqOLISg48tKXMOMDo9JgaNn7amxhNLWhNnDwwssgILlBcCubNCEhdbt2nMXaZZrqLutmLLGao?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Admz5n7rayAY_Yo5mhlSxCy0wW-FG-FhaQWAV5xzAysbBF2A8lFRVagLULDgy9nxvj4&ccb=10-5&oh=00_AfvR74PsLp0iwQh_pjNZ91v_FLaovUX3lr5lvTQxoa-qsQ&oe=69B71CDC&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 27.75
+      },
+      {
+        "image_id": "1213644729926544",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-eMt8gEOK2QTLS1bIe7XUDFiR9bTWP6WOQY6EtUyDNhWVuTa8PxE_c0uGg-3guObAqT3OTdn1r4cijv6OgB1VfdxNvG64fAPZ-aHP4i_ZRwzQTMpcKeGBxQxUOy76_kXr-LVF7d-PQs-OK5IOAi34?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdkHh_Ly82WCQ04cmYJUzSDXqciNJKoigYFANUxxu9nGTVaQdcRKhN34xP0HoL7J5FQ&ccb=10-6&oh=00_Afte3PdyVd_iDche2J2CK-CREv337UkpuM-wRvJhCs-lkw&oe=69B7225D&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 6.98
+      },
+      {
+        "image_id": "978131124037968",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An_6XK0opOlb2y7hF7cVJeP_J0uwNll0DKklJkIVGmyU5n-oFES2j9UxYIN-K3RJJnWbxwd91iG5k5zZSc8iIYDGOyr5PRJwJId7Or8RIBFQmiO2n1tWX4FIsUYnnVqIzAC5OOY2zECi7JY7nbBUDQ?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adk6pOrFzwEgQQtA-GVB-bRckAEhhjVYLIFjqcaUMcO_awHLrUiC0j7WnLmps5DV64E&ccb=10-6&oh=00_AfsP-Xst2WcaufXebl4IQPgWjcdGdmxKuew4gVTe5q0Pxg&oe=69B70144&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 26.93
+      },
+      {
+        "image_id": "1064327715101063",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-H4zuseOUHLzNzLbPAxzOSFC-aLkQ8lOL3foex9LlMGIL-uaNUaDpU-L97LzeWvqjP-9ao6MruXEf7zZPkIHNDz8jXlx4kb5tlj-AD4lNxhK8KGNgceLPIeGzk3LcyOtLOFwCObOob3MygOWlelw?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdlJCJL0yB9I2UJWDMut6hAoILM9haNi0PROrijo1rSZa88yDpAL_ykk7MoKRQwahQg&ccb=10-5&oh=00_Afs_s2UTut8VijHo3tjTJx3J2Fr6nzA_9qmXJmh_6-kLxA&oe=69B70537&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 16.42
+      },
+      {
+        "image_id": "904510687718983",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An9j-pplvy_tTCMnORJ5-wE591jQFOomLkdrWXsHk6n4A-l-uAF65B4B1vZxDWZFHMXWTxSj9viQZ3ACGFjozGVog7hkE_SmFbQX1NzQFSaCnwce-2YM-qgYdt8vIi4rcy8TiLnXmJbDABMod3P_EQ?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdmjGFb6euBT8oSE7sXnvK26rFHRdZ-tWdJeawlRHPFatGsWA2iE7f0-kyX64YKbopo&ccb=10-5&oh=00_Afti4FC7YXIdMRN5fhld5Zwn2MDkZQ5x3nT3jXB7ULDEWQ&oe=69B721BE&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 7.38
+      },
+      {
+        "image_id": "1163914344621362",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An9qpBlyxZAvSnXv1oE-bcR2O5rDpytP1dm6FH9on7LcO4YFKNUH6Dm_w2ed6EyeWTw5bQ2PnP1CriBCjtC4vd7brxLep_0Jk37InbUJBb_knXG0YtPg1VyqeiUO14r-kqp6Yf1ZU5xlQ3PJl6jwY3w?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdkNK58vw5mKo-RtgRjX26uXw7rci3rsEeGVpA5dwXT-DlSKBE7wykgiUDRQbpq328Y&ccb=10-5&oh=00_Afv4nKNw0X4zWaI2_iGON6NUh5eKBi03uZ91ExpTg-4hMw&oe=69B7250D&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 27.58
+      },
+      {
+        "image_id": "1424883544893232",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8ZITOXSiOcVeB-4zEjZS_qh0eQZbGLcPn9z2lv5VVzvf8nx4eQlMZpWmIvXOv6ysq9tzDOzZlumTnXbf0BYFR_-w32KBlhTcB1NXcbvSBIpJgGGAvoK2HbnSr4WnPmKLbn1fLbiu-aKgbLdUUTYDI?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdmTtfi4cne4otzf8hRCSEUG0UwmTBfvXjAFtiBQae0-3zFEEEXOaL9z4cVyhENiaMw&ccb=10-6&oh=00_AfvsTC3gIZi5Y-xJM-40FYxMskYBhTc07q7OF4HUoCZZyA&oe=69B70C74&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 27.6
+      },
+      {
+        "image_id": "1626543324554334",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An9H_utCzDlF0cn5xwEfCaiZ-0jDw7BbVPNy8rKRdc2R1nQBtF2NA-Af5SYVX9-UXef1SYKmDiKu-ZE1qmnpfbJmRARqQ_ONDiWOzGN-DW4ax0vca-BGyt-U4tTNGZcRTsxZ8oYNZjoI5vDE3tSfdww?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdngCm7R6jjz6fuDUn_sCpiFNSwHFdwJ229Th41dKT6jMCd7HKJNp1N_YYH9-xy6TqU&ccb=10-5&oh=00_AfvFAxJXL-xT4XPxAYJbYVXY17nIw0Awa-wFXEkztKRGDQ&oe=69B71FA1&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 25.36
+      },
+      {
+        "image_id": "436349365728411",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An_JAIGVkXGlBPBFf4BAssEYfCFyLf2jYqErD_NR3w5NVKocTnuTRj77hMmN-X2QwKfH0ZeVXHs8r_1rBh0XzgY6lvGRBz1OfRsmuzzjaITWprG-IrCOihamXoblRRYjFb1xHGjTy5mvhU-qpLE9UQ?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adlaxz7mQSJRG1V-OAN77ElGsA83MYm0qd_7_T_BQMJSA9PjP5G_0pHpvGURZN22hHY&ccb=10-5&oh=00_Afs3LAB0T-nP5kRiIajI81OCOMO2sJJNrDxzSSUTOeqo_g&oe=69B71CCF&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 7.46
+      },
+      {
+        "image_id": "2898345717005924",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8Hjarq9-sRsTAyp6ZwY5LjmE-ArOW9cjGwuoMzn0ubUpavtbpSJS3ApLMVq8g9wvf2IB7n5cdxPrugqqJj22f4HHkx3RSnJCjit1fn2SICd7BFESAN80j3imCeoX9C7teCm6P29t2e_L9DvyQrfw?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdkqP4mSpxe5GPYJ5bZzjkGqUhlHtykHcB_a0htkh8Hpt9exwxPSWAhOt5LFTpQ2svU&ccb=10-5&oh=00_Aft79p0RtmxTtNCkV_GPSpu3FUX60UIU1jcsz_4Txz_xfA&oe=69B71B34&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 11.25
+      },
+      {
+        "image_id": "3805934433007278",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An99IOM_spJkyd1Bey3wTg2fW83p2TfiXh3FQKSn1lgUWE5oZpV1cIXKp2BiPcEaXqXA0t6-ManHCtLaO5h3ApeDQF-U-z1N-hRTs45QqqN8zr6DUAxE7v6_1zx0OGXtRu7Q8PChAPm5cB2jkWblB4c?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adl6fXGp3EbHrrp0xmdGDMkd8BUcpy2Vl-FuZZC1M_25ErAisbEuwFDcj2eVyCv-bqI&ccb=10-5&oh=00_Afs5cDwzpHtNz8rEPYH--2gpo16_BLXCR-z27xNkr-h-Vw&oe=69B71B1F&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 17.27
+      },
+      {
+        "image_id": "786324296981449",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An89gEnLMUzGE1J9Olwq9dK3GDao39hZrIWyUnQqHHPHroBWXiYzC-OeHGssDcY-WKYEUhSukyTvhKox_7zGb4ylwj_Jtc7dzz-IhJXbLMVQ4sCbyzmQCPzOyzEb9qFoLjmATZVbut5ziZ95g_LOlLk?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdltyjwiopWCNCazMpiHYCF3YjdQYU5YXUVbt2SxUgz55ric4-SCqllvK6N0f5rRQ-k&ccb=10-5&oh=00_AfuYKSJQYWP-b3oXrQ6uFcoL0HOigphwz-ot5y2S04Ds9A&oe=69B722AA&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 8.72
+      },
+      {
+        "image_id": "458229520002667",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8DqLk2kUUKo5viaBdOmPTswPhaDR6fABLbJyiFnVlEKqNdszuG_8idCvOqwa5A99tlRunFtSkkOM94l9L_Sit4UdhUCkWhJiR3g8ylWg4tSW_jrpufBUVn8r-G6nQuJ5HD_gANucgOX2lP8vOPJg?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdnVAhImNoRWujcoNZOCvXE4nuK65tbcf3vfLBwtDrUDJ-bpCgOCEw3lfiZBoXD66M8&ccb=10-6&oh=00_AftYsW-xKLjauiYKwu6ooI7cck_ioBKKVUoI82JEGlL8nw&oe=69B718FE&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 15.62
+      },
+      {
+        "image_id": "477735758080202",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8YM3DRVUpAk1xVetbeTdPui5_fwCBu3Kg4bnuP79p5DVmCHFsVqh9cSb33ngFkQJTOC3htQ_-Od6YJLfGiYGjG631HoSkSs39iOluCG_hXpNEfonqE4LQTVfGoOoVzC4gpJ89N9Jh3qkPHBhNl_Q?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdmTLQcvLRyRpablVMyBrDNDsHkSxD8TQr_6EhrJ1W7yoIQjLoWmEOG6YkQt0AZmyFk&ccb=10-5&oh=00_AfsW0cH83wfa2P8EEnGRpUeiAOlqsQpclZNdYJmbtwavdw&oe=69B7080B&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 27.14
+      },
+      {
+        "image_id": "549394167622664",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An94DNXyitz-evCwzQFCIxX094UDqCJbIRM4UNZZ6HZ6xj68lr5GUnUtVaIipHp0WiJy7rPA42BfbLWc0-8vApJqDyW4qLztIoLbk-DrmLJEiMq0nG_zV4OTaVJ27TuCNHao3SbLqx0g1iZmUeRfIA?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdlsC6F3N0e7rjx16XHOjeuOUqTGxZsGKgjuMIM15EO8jkhOgQgh9iJxJ4FBvcfv2bQ&ccb=10-5&oh=00_AfvyzD38uQxbQ3SMTfYOVAtnm2TfdfQ398nXTEzISraDTQ&oe=69B726B5&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 11.45
+      },
+      {
+        "image_id": "1520322835187991",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8BA-f_gBYQJKwCE638hcLwN48YUP_wek-F3EhjJE3PW7vmAy_nBPOlGPUsI0QCqwYRDzFlCut-Bgltrkxzjzx0eUEnH4gr9FPu16O6Xb4x9p8iLXmllx91Aav1NurOOg2Ls5u4drJ66GesaFTz-MY?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdngosQdJCQjvKzLX-5A6qqDTRvx2b224twaAPjhTDMkjpYFWkRFMuQsX6kbK9zU1B8&ccb=10-5&oh=00_AfuwQ3c4UFygBplV-s8Cp2IEevgUdUTVd-U7HM1VzeLwQw&oe=69B71551&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 8.87
+      },
+      {
+        "image_id": "1370554727669572",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8LuilVdiAlUoJLzLs7_yfZRD46C97Mgv57VIDze1IvCHryq4aRTsYSr-6YzfFZiaYB3gvu8gUdrAadL8N6eSO_AvL2-jOg-HIiuuznvW4BVyTNgSndHZV15saZuIafomCpw8OOg7R1_flz8nutyA?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdkPKr7pUe3Zx4Xd5GbLpAuRPWn4IY8i6SV4mNI8DnqaVBV4rfNNqZFjJBhYtydA-YM&ccb=10-5&oh=00_AfuDPZt5e-ZJFTCdcgxn4lq-PiWrMUJSYcrVil7o1Pbelg&oe=69B71136&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 20.88
+      },
+      {
+        "image_id": "995853945264920",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An806tOTaqPe3MTsoHrI93wz-RLZIl8ZGBCfNn9mzul5SXt2OgRH83QtJRkNLfLD3Vkx8qJiUnQqondE3LK350AIz_ohZifh7N4dEZfbyV0I3XwVkMwbw84n4ogdAM0Bw9x9-KBBZYcxTN5uxrwZdw?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Admz1zjrjbfUEo4xUKM79Wd-S0bzkE3A4hOE0QsJU7AkQ5jhJEmXhQb5jJe7SExt9Jw&ccb=10-5&oh=00_AftphwhcITF9ADpcsxu0Ww5IivYysM4Qu_wH8DjMqDqkuA&oe=69B6F8A0&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 13.9
+      },
+      {
+        "image_id": "1013670033765724",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8IJf-n-IqYVPycORQ-g0LHSx5mEQPJq2TnPBzIElRqXCci9XU_YKasecOx6tKdBKkt-3DKpJnEsFiKqIySAUzdr_PVhWaZYDdOC-k-R4Ju7_2lPW_ljd6HMmAUJEvd9cIqkfT1wEBawxiQ3gN-Bw?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Admhg32NJ4EgEaABPpPGaLe2ElgmeZHFy6cUBjTXE8W8LeM8rskHxz0ZnNpJNpJxvg4&ccb=10-5&oh=00_Afvey_Ni5xnvIHUynR0FZkP4SBlahDm6wzVB5fUc_Vakzg&oe=69B70703&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 16.1
+      },
+      {
+        "image_id": "1050763963444906",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An_REvTGDiEtwhlhzmoP4O_nLyFG9-lw2fmQGu0HOupoNnHogwz1I6s16B-TujYeSx6gyjjPUJLTKRSjkXyhNeTuVxoAa8tvjVOaVGZy3-UOIYgJywF7BjvP8ONVIGODZaN-PSuLeSPTvREAwJOu2t8?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adk1e1ET6jY1H1AjHzaY5CDiZjorpkq9VnBGDyVza8QL9wr4X0JY1G14x2oJhm1rK04&ccb=10-5&oh=00_Afu4w66lCxOC8XHriV352SvY_JfpxHyhYzq65QrnZQ_ndQ&oe=69B700C6&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 7.57
+      },
+      {
+        "image_id": "1061976735289690",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An88-b-Rpbcn4lcJY43_l7LxRs-7iiqGLjEQwQC_B6MN3bnZRJzjLgQuNaS2r21XI7solIsxh3QEqu80v2OQAwB6gi3_a1HxWdtfkNPBNx-QHGqeeM56ClVsu1QsMdE-NcrWOggqZhzEE8Tl70RQBA?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adlwi-N8Q9u5I_zZW-hw6bSt4nJHvbcy_AU0VDry9tTUz-fdqXUomr42aPSFCmvhlow&ccb=10-5&oh=00_Afue8jGtZRKbRJYellFDyhPQzVaGGrkoEeEj0qDmIXcZMQ&oe=69B7270D&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 23.73
+      },
+      {
+        "image_id": "1119406385790389",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An9RYzn0PVtqxb_j-CY-ReRjeN0ObEimZBkpN-eck9L_xTZOwNYb-ye4mAb1p8QvFtj1ZNYBx5IM-gUdZGeB8BJMyaDvUIYGlbG76_-c0MEeekX7miW6Oqlt8KJl5E2u2tLUtBlTCVbO4xyWj252iw?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adl0jScd4ScTGveg3QLm6kUR4rySeBJl0_h5BG5B6ZdGOmbM7nd_bOeNYFY2R9qSJHs&ccb=10-5&oh=00_AfsIClktt-OPLJCoKy3z3PjhUx_1yn4f7gzWUZ7cnFO6Og&oe=69B6FC68&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 22.65
+      },
+      {
+        "image_id": "1123513585373520",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-ckNvvt9lWraOFNB90P8IRJZE5YRdRhhHHjThS4jGXvg5hc1a61gFzp1KSM8Jg3pLgDDtL57ksTODCl4Hu5USbVt8OCSLalKKSVNT09xe5io5uXCtgfnreMKODPr3qVhLc9z6S-P4sMKWTce65tQ?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdnyBJK5_3hDQyG50dVsofS7S70-mTcDh5O2pzGNFOI_8W7VKRvaSk8kHw5TL5XJFgI&ccb=10-5&oh=00_Afv1g9YzhqmMas0wNZHWWdUA9cAh51xrawJkhDotuY5BSA&oe=69B71ED1&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 21.55
+      },
+      {
+        "image_id": "1127700455171053",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8BsWytvspQP9hd7uh3VA1p6A47zpFiPBetE15NF7lWkdTqlFbzrggh_Ebx5j4IEFPKALuwM047S99MWVzfY_HZS0NVk4r8DKDfcNARM3KDes_s_ZZOI1sFh3RVdQaJVa3pidum0HGC_9o5uSH2cbU?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdknlcqkJUvT1lhqcECyeUZTyjRhHh5mx0_21Lg2_wfAcBNHlQ6MNlJfdWLzUeKL1Oo&ccb=10-5&oh=00_AfsazosKp_n1eOq7airRfBhzMl-tKlguSV_kEPeKmzVG4w&oe=69B6FF86&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 11.89
+      },
+      {
+        "image_id": "566160329112736",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An_1OptKU2lSE1P0PrsdaLi7kKY8YeXvTJFCkPHK0MK0vCeoIjjOFZ51Tm7AZMf7w1VimPXjkaemjU8VV-OE32JzMEet4grKbMt2AnEYv-PK8DGiritgmXDqPjVcp3wvLYdUMrDz4lqWY54wAXumjJI?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdnQoyie4oClysZgbvVhyBHLgKoLINudR9YkjxylB2_r3GjYPIx4qAY_kHqPXQaIBM8&ccb=10-6&oh=00_AfsOkgrE0_X9ZogkVZZ8RT4DldzXA69TCocRbDdF0HMR6w&oe=69B6F506&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 8.89
+      },
+      {
+        "image_id": "1147105499882713",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An_6hUCd_OJIi-DjXdfC84mr1thsFUQC-SRWAhW0uv0xXWSx7tgYYsIbkJuGFlbEA7NGAqlN3pGhrceIXxiIPlnon2ct2RssiEzATuHOTRRtQop5ofuf_hBtpTOl8fyCUeW4KJGVcxOt625JDBCIyuc?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adm5QXZBuuiWSA5O1P4ldBL3J4MsypM2qrtlljZagaS9AdjNoxbMkEdjlS_mfnjhoDA&ccb=10-5&oh=00_AfvC1wB7qy4JybMuFWmXTb0JJCbKPYXNQ2tvrwEtoIP1iQ&oe=69B71DDA&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 8.7
+      },
+      {
+        "image_id": "1166376857849186",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An9v2tx9KJd9DOLIW1x4aeuSkqi5O40qvVg6lW58XAJcYZtJWqf0ZvQLX18WWi_fOfz7obrRGUCYbNQJ_SYsT3bYcpSy56oCAzcaoAItDbiabyUSjZNXwdBGNRMPLL9Wfj8knjgNdCYOJ49CZaU6ZeM?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdlilldUATmf4kp3Ufjs214-Y4nB0Q697Dw5D2L2k-cWtojnOcLulGEx1Z7AFPUdeLA&ccb=10-5&oh=00_Afvx32VJY2dShTzx9_45ivckjjYkH-EF_g5siqoUXM3-hw&oe=69B6FCCF&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 21.75
+      },
+      {
+        "image_id": "840102391318036",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8A1hhF8c6SYSef4VkUwO_SaKXX-S2u97L5WSk151g_SnI8Wr_GNijc5n42EhfQ4zy_70WnOJlmzVutqyKX-kQIq0l8Af7OAENV74hx_R2e8YrTvR_xesVcHnumil3OZbVCmrHgQtXJaKvhjOQI_gI?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adk5vE1da6RgY9f9-KsEaZ01eEck5gn8mrWa05Wo4ofYyCzPDvsGBVeVG43Fgoh5Z7M&ccb=10-5&oh=00_Afu3IqY_WqWGXYvQsC5K9PLA-8wSNBnUGkshOZbkjuON3g&oe=69B70C57&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 7.08
+      },
+      {
+        "image_id": "1176661490446956",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8O4FO-YB90-kbr_2FosO-mBWkBltX378wxzT3FiV4AEqJgUnCYoN034v7pU_2hsq1Kbw10Qwjpfd128AZSfzi6oaqlRC-JNh7_rGpNth2gfDds-FMJ7IEI3ABmb6iC39Zgdzw_WR6C6F_pe4bT0rI?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdnMr4VUPIdtrZRC3nrUXZ2YQFgOmshFC0nAMLati4gMsZyk_2f4N-F59QZObv6i_To&ccb=10-5&oh=00_AfvyD3FRRe2y1_62t4ag9_61W1GzAvXUZ8Zbhm83ULTK2A&oe=69B72959&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 9.41
+      },
+      {
+        "image_id": "1498710524408619",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8GmLewF-er_VGisnDh2ASZX5psUel2SXYVCyGyhcpkFVcBS2RSnt121cdpC_W7grNuvmr5C48Aj4YkYT6R_kDZg_Xj7fQmrmXa4WCmq4b2UJ3E-UKttLmv0WjPnF69MgQLfYq75d46w5dp_baP8j8?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdkHBzvPeI4B0rksrMlS1V_2H-egzvlv1dLhuiedHjLMcK4rtEoTxh8iFzMRFVmENYE&ccb=10-5&oh=00_Aft8jeEnt5K2PzR4utZJxoYjTbQI9qPzb7i6YHQB-chRPA&oe=69B6FAF1&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 12.59
+      },
+      {
+        "image_id": "1500643720858326",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An9cBRSHh6PQ8ZpvsV8_YwgugIipi-0GFUO56qOw5cyV3dFWkciijkrXof2claOJdgAXrpxNmmSdGClY__5-xv60CNtYY6yJV3LbB0jfrb-zLD7jraSwpDv7PwFB3_kyDtQA8fiGIlTcqDWByD8HfQ?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdmOWxcQlC2JoV652MHDkJxYSU7wQ2G2VFD-GBJBgOmmpJQ9L-VOpAIIrMwzpcdA1ck&ccb=10-5&oh=00_AftDPL1WWfNJZKWzQpKSIbzX48ADBIm7nBpMFx0UpBNajA&oe=69B6FD27&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 10.45
+      },
+      {
+        "image_id": "1838178826594754",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-0sS38-ZRYapZEMAJpyUbeuVEKWOawyMkBHSEreOB9OEJWoxxttCjURufi9vcyEJ-vpdiZeN4v5VWMy3-ymrS4g7hspZkGSQAmt2Rx_9kQpHVTb3CuQMAqtu1bq5ojzrsDbij_iYajRv3jAy0tx3g?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdlOISQPXqbEmbuqEpPFe2AakveGoNh2EU_me3fAnqATSk9PbJGn6S7DFwoX5xVDiSI&ccb=10-5&oh=00_AftOOmmKh0398cNbq45uyzDrdYlKe8mCofsNq9khlVyytg&oe=69B7094C&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 21.66
+      },
+      {
+        "image_id": "2238078293231411",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An9ySqEskbfeK7-t2SLJhh-zQPPMxhq31k0UrjPc8-08nDJdSH6kn704Mo35bYIVgRA1onZq2NJAP3_b91GCJP0Y9zoFS-RvXRvAU1cW-uz2ZAOtAPB500Z3b9GucGU0gh25EEKclbtoRYdb01voaGM?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdkH444gzpc6rGMMaNhRYhNJU6uA5KEvMLnnzaX7gSA4ADxSqNz7fj4mvoi5xfUWbF8&ccb=10-5&oh=00_Afs2K7qqC__NqqmEFBjZrGk0kkRj4Sa4RkCquz8tkoEYZQ&oe=69B70F3E&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 9.43
+      },
+      {
+        "image_id": "429842513235821",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An_a7q4I867-GqnlfMbyst2it4YVY0ct98FJnDA7RIx5hvWg7-FDKak-HBZGz8wBDPD5XLsEsKujZN_03egkzy5E7LUHSEjK94rGfLAsRjU5Lsazi0fjIxWkTwBv6IQVfvXRnwC4iHKF9g8tcEER1g?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdnsYRmDUImEcqoT2yu1-mdc4JCt35svexzv2ZZHD6rzjx3st_BycGey7jXTJQ47bog&ccb=10-5&oh=00_Afv-wjhxFYC8Js2kVyB7GuxnSWsGvwAE392ncKXz-OX8WA&oe=69B6FC6F&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 21.48
+      },
+      {
+        "image_id": "440953392073754",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An_xuIHDXH4Kqvh2CUpA1KY1Jpo5GoRQCHDMb9kzbM4jKBbm6A3PgnauNcrNl1i1G6jPaaHeo6qP3rkNSXELDwEQfZySUAguCkaFyRg5Ak2uc5kKiUo268mNo_f4sey440-avTCnBBG2eg1nQLHuzHk?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdkFHdgrRvTfnQhmnGIfDIsp4bWItCvh6-myWAEmBzlv7GW7RaE90JLATEAQW0MJX6U&ccb=10-5&oh=00_AfuwqKv8yy8X20HjV4Ln0IT1KXgvSYblSh9ZlfXUqLblnA&oe=69B707C1&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 23.47
+      },
+      {
+        "image_id": "447902717999325",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An_A-I9lTdGZGuKuQAPHMZFqZPUJXDcZSvxV8v7BlSTF40TyZpxOuPpGESdnAvmaT0fuAANbBrNJS8MIWJPL7kMcek5xZpPTGp1oTLdvhDy86ZEuss30CwrXxviaI3u06MWdjTYgXKWmZ_yzTKgZAg?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adljl2RZsN-SWauvkQdNqVSpCXVBPKseTpxupcT7w64ewoAQkgPokVXhCEMPQy1v7cA&ccb=10-5&oh=00_AfuSGxtio2gQqfgJIy5lgvC5b6oe20pa5GgBTmotYqbeUA&oe=69B70512&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 9.01
+      },
+      {
+        "image_id": "450817984570003",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An9HRv6SYQT0MTwKsvLFHpPh9xGicebho8kZHF4HNsdSK9EOHO1Gr2fd4C2oxFIfI5o2tz5yAnI87kgf-eBTR-4eVQlaw-RGEnQwnz-rHKoNO1quAg0-GL1DU1fr3LdvpvXCK-ZYqghjLYX62Qe_Oog?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdnpI07gIahLFtbsK2pOUHlMhAXO_ELCuRpTHPdhzYfLy02xdL_isxdfTJJrvPcF7as&ccb=10-5&oh=00_AfvNcstBzEHlqWUZCxWy6pkdx_HoXl20pppzoUkhVluslA&oe=69B7130E&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 18.11
+      },
+      {
+        "image_id": "505655962445431",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An9xQipmlFxaEY7X6MixUMutjOwkSokqOz9RHczmovPHxJqBtz1tjxsUyest9GYrLOyO1beOkPsRLPTMvdxSUKLHwF4mdphMDc6J795efM3PZjkZngtHZxBB9M8a5DWyRC1RhBLJqtmH7zQMDd4RFH8?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdmlsJJT5_3NJV51WHJIi7W9S_INuJIn49l0uir_tvi9CN2VcC6GcQ_cEs9w5Lh4hRw&ccb=10-5&oh=00_Aft0qZlVogUWOBisoiqKzklpHfzNlYVCRzi5svcGOxJ7Rg&oe=69B7073A&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 12.25
+      },
+      {
+        "image_id": "555943473579086",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8VA4AG8stdBmAxXh0u789iz0Ahk2uMrXHSmGcUlaSOP_WizdHRnn_0u5dNYnUj6LKbKg3uL44s3o6gC-NgZI8LorZ6cV5xaqwNGOUKcXsdxJZNX3oXUqbtI1fC37Y7NFsLHXKrD-BqVpGSlnEOekg?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdmIJoRH_iMiL1T5IcNS8BdR4o_rrjyHZgiVLnlx8mdFWlIj072cnyuvq8WkQeTAVjk&ccb=10-5&oh=00_Afux19VlSgG6WkcHjsYaxySzWMB6c_bmnaxDG_3zfp5u9A&oe=69B6FD11&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 7.64
+      },
+      {
+        "image_id": "758163972878097",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An9MhNJ1eCukIq-CwGBvO1pNHf9nnS5No0j3OZpKcdHIfGkZihZm9HHRR4POcsYQbQab--H742pNUAbvzsTAsZMsxpRasBb9WaXj8nfKouCKt0izOGPoFTpQH1PtIlzxK6iIGunWz_WJgkOUCcN2ew?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdkUg3DfJjXVzHG92McTwjyQCVr4guXGpAlTpk5zjbp9htoVapU2iG4jENWMklIzPE8&ccb=10-5&oh=00_Afs5Uzyuhv4FoeuMjHv8VBskcNUywY-ccOxX22ZsZkdHUw&oe=69B7195B&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 8.82
+      },
+      {
+        "image_id": "7805888592824453",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8RBmkuDFjGg2qlPc7R0csE1fU3YyCCtVQcwb-xIsZ5phypE5Fvhlbr5ryaU3sCxkK3fQ1b1k0J1r4kD3-vpUSWZQCpKZkqdNl-8GoqDNxmw79mSDdtK3jhK0oj4OEmHTb-PcWRv1uzLVcEJQUuGQ?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdnVQ585lszkOn_gaGfCIlSSx7sONM6ukUOckMC1FDIMPDdIibINehz1Lyl7RbyAFqc&ccb=10-6&oh=00_AfsjPrLETqMI5D0ynUwiILQPC2OBd84rh1IG8bislGmd4w&oe=69B6FB8B&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 27.89
+      },
+      {
+        "image_id": "819463029772672",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An_6PaDxP4PhM5Jx7hqUeSEZ5-KW3yAQxS73P0D8HXdHl6rmTXVHKTIOc1a10hFDnp9cW_EBSZ9CtlnKWK_2ngyW2PfjRZOy-LjDgPA86ldNiENrnrGMwQoMFSnN6JwPilCugio2RtMm9KwC0OgNu7w?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adk1SHErKhRWHRB2X80AhXunAuZV3huAUWooqeks5G8TBQwvUv3uCenxWK9Hy7c4DfA&ccb=10-5&oh=00_Afs6tppUXYcfNfKUKoS7zA_IAI9kmsxepk0kVgEDUBpFwA&oe=69B72C9A&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 12.24
+      },
+      {
+        "image_id": "1676162842968182",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-akGIp2thN2_MFkCcWF152fgjsULOzZ4nVjIZrX9GEG2WeKYktTFQNslNKzzxephuyjnlthOuvgEn-kgccpNeRMYTtBK3-6jpRcOvMYy4k329tYP4s6pvLr4W4fBOkdvOBlYw_mTLUMQWfF-HW9w?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adm6o4cM84tE8vlywZaiNCpAhA7bXpU9JEOxxHAcYM8lqPcThwCV9UHhr2y4TjBwsJ4&ccb=10-5&oh=00_AfsX2KdzHncAuTZkgFr1mianP4poUlrDVW3peogE5lZ6iw&oe=69B6FD04&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 7.6
+      },
+      {
+        "image_id": "825894812800123",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-6YGnjhtMkKtfppy1gxgnxEwakaB-rnhlMcQKbw3KW6c9h6wSNBl5vC0eqvbpPyK8rUqovqP0SrvmkacIQdIVb8PSIb9E4RtOn1jUSNZoExWtSMBgvD5tzLbBSOmRIYjVXp3CHGCt2vJK4ezePnQ?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdlVd_khFOGqgn6TISJlQJCRLJYGadme71DuVhBzR7W6g1ZUSOm_giKLDLnswNIHh3Q&ccb=10-5&oh=00_Afs9hAx23OBe-foTOaks1MOA8dRTvbQ-37DMAxqvHaLdVg&oe=69B72196&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 21.44
+      },
+      {
+        "image_id": "861689399137647",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-dMNtfH2JaLma3fQzUdfSCHeOWiXRl6YpIxPSX7X4cI2BLOOlhWZtQ1PZaTbfH0d0pEer8RnxKoOBw-0OPoO1oAFmdUsL7lJVyZdtmTBp3lUr4lR2VISb6oPca7Qrz088GrHF8NOwgGfH0_uGvd0M?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdlbHabpByttwmprDr0s8bNHruowXH_ASWbOvhR5AgEPGC8D0JJNm1XFGPpaRZsslmI&ccb=10-5&oh=00_Afs_cybjhBvAbvkUUhWYfspzt-7rRLi5JpZBYHdrHYu11Q&oe=69B70E24&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 14.1
+      },
+      {
+        "image_id": "877200884434191",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An_dn-2MSOzSHqwfaptIjizaas-YIfpMxFKzY6bgnwoDMkCbSZK4zE9VnsSdgSvRaHsyXSXs58NhiOeZoH_XvEcZFMWjNWGzznjSOE_DM3jgf9RYfvDaCCGqIRqrZADS46LJPnnWeroWvx9l8pkY4g?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdlZ6Uh7HXoPpLyVOqwVYjrcKDY5o4vD9Jk_QU1oL_L6JFvvCrQvifFSpjDDD4RudQQ&ccb=10-5&oh=00_AfuHFRSwiSwmDmpZEmI5_GNnetCmW0H8uMzw9ko20zoNyQ&oe=69B72878&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 26.17
+      },
+      {
+        "image_id": "899203048368569",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An90F6R5aEoWZlNGnJTT886FjyuiynGduM0g9F-bEnBZkHwe5LbKNJHP2qmqXn5GIdCqzX4RiwHEXCZFLtf8VvIoR9M4JWXiX9xeSrCZI1S9-FkJzR957xi6m4n49hmwVFf75t1Kyc6Z7hFGTfsAevY?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adlr1H4RG2iupkIGx8zLXsdMda7yRuOnANeNHmR9Mwy0O10hYzNrmbLJ9aGXmaEnIYI&ccb=10-5&oh=00_Afu5lJ60_07jXgvoolT8icv99CayaEmBmfKrdhRHwIpKkw&oe=69B70C19&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 7.45
+      },
+      {
+        "image_id": "953718849864957",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An88E_rbHFLG-rWcl4x2XyIR2FuG7sNkvN6BmvbZmArNhel8YkzzUd1dofoqSbjdNwhzTpNY31IRdQ1jKMjM6qgjsFo8KqZ5kkFMyGjWdRz-zxyPQfAz1gb4b1ucAX3sLnFF73L7zDnXqEnrXGYnjg?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdmjW32QC12zatWcTal1nBUK_hNjWm5yb8yYtMX4F5qst2M7T12TNR3vFz-ZKbrs0uc&ccb=10-5&oh=00_Afv4Y-VPKQAEin9fpJCnvZ0Jkqo8SBWxS6tdt9hk2TyHhA&oe=69B70386&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 9.3
+      },
+      {
+        "image_id": "974476571045200",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An_ViABtFtvybi-Cz8q1SMso6zpTi2s7FUy3l9PV8vC3-rSrGCwSoMJ_2uKkaB7Rr18egZ7pNo_t8HwuE9UeWXrMGaV7loxBOK1HEgUlOU8iwqX7eOP185MyZoH33PoYeoZKiNjm6BXrlryX9T32tIc?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdnTOce0dPgmBdKmZeZIgx1lIejeXMos1ZsvqO3pIUc31vI0IGUloP08pZ0Mzl2BIeU&ccb=10-5&oh=00_Afv0mDpV-yaPb_bTd7u6vovP18nXvs4ewnuYunl2RRavfA&oe=69B718A3&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 27.39
+      },
+      {
+        "image_id": "989275965909772",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-Z7RG89z5ysXEBgBIMz8IXrZlXJY_Wf4vNYfipiy9Yhb2GdOYy_jgxGrqvl9Ur4i3dDGszZq2cgiRozp7frK94Bphk3SaUulnADPXVFCsBemGKBN1QhFieCq7p4wQBHlu8_A9QxJf0Ywxy075q4w?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdmlxapMaWy-tG16ovYaDdPvCUi3DthUqUoDk3rlGAn470c1WNVxAA2ua-8b2zK2IDQ&ccb=10-5&oh=00_Aft16SA0VSx3XkovohC4BATKTUlkY32CdKjpyEebzl68qQ&oe=69B70173&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 28.12
+      },
+      {
+        "image_id": "991327972257234",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8mTSMTqUkc5GV1CDbXYLVQbTTwMxZe-YAphqMPfSpsf8LH0szzEwz5QcFch-9Cgq6B6zr2wbEf3q1RMFlau8sqw4jUTBHO1I9zSo6Lw1950TtleyXMXTPZr2TrlrgeMqBKRYm9P_P-ydI-rHgAw8s?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdklDNBFtbz4K_e5aiUeXxXtLUY9LcnTVhb6Tv5iL9CaWloXEVvKr0fuHLqwEqMHjY0&ccb=10-5&oh=00_Afv3QuaePE4sPIG8VYMaL2_M9Q_sgIdEQhViF-OYk0L4Jg&oe=69B6F558&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 11.17
+      },
+      {
+        "image_id": "1072781067667330",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8TOxWbn_1-GNuoZw6gyn7CnbucbGfDj-CvYkt_eYW5gZU1MSTftBg-TM8EE7DIcTUYe_FE8gxATNgINDCtOuGWYyu9mHinrYQ6q4DBuCWdghcyLcdz8qai6_BgdtUM9FUvN7hzm2tRYTG25eHtjg?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdnsfIE6OJw4FTf_b1Bm6BWOPM5Zc9K_nPptQE6QlozEAyS4IyC_6lmYomOK3tD913Q&ccb=10-6&oh=00_AftHr135Uuwjp-RjCxGK8Q30UNfOZ5LWwBkUU7z61d5crw&oe=69B721B6&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 5.71
+      },
+      {
+        "image_id": "1080883550114930",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An91KD7vxQLqbf_tydJidjcwthiE-FNE4XAbPw_jznwe613LkzU9dGpAqcrzk53S6YKytA1s-nVfUjSe411OQgtbVfgs7tA7LLEcRHP6momVILpLlKtE2KaPOH8T6nmu004Ny42g_2eY3xhpS8e9dg?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdnRf0WuNThhx1zzxnQRcOMjkln2q_h9z2c6UdiDbS_aLDkE6ytVxOqXciCmFtGbb9Y&ccb=10-6&oh=00_Afuf2cMPzWbavWRl29V8ysi-EX6EVf4hb7CHUhA_mVtTjA&oe=69B70724&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 5.49
+      },
+      {
+        "image_id": "1125899841832086",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An9qjgDejAEvlfcIQX7YglPMB15sIP-Nh8tr3zg1ECgmhAA5ZBj8LrSpAZPF2GhjzO53PaEGkDlvoSKRAiAiqevcaSk5mI514FnIWT33I1oaUcDYUtLygUh3wBMFTJRJwCUPGMuc8MCZKdmynKzrE3I?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdlhdIO5OuCwutoF01z3U2vzG51ZCBRqTo8T4gLHhpVJvB0pvr1Ajf0cTOEikwKMdS8&ccb=10-5&oh=00_AftYnAK0272xy-8mMOZ0eaaPULZAaTocMxIrOUiiDtuTbg&oe=69B725EE&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 8.9
+      },
+      {
+        "image_id": "1232294481353302",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An9EQwQmOmJNE-9pQ2T2WHSgCbMt1RsEaWgGaTUh_EbQSM1vK15t-AM2Zv0XVl6ctGE_f5VPyP-ukZcUm53wa3ssXPVQ_2B0sHQns3eL7tjRPWt_1VNQFF2hNKBWeWW4_2sLXA21F3njNnMKOV997g?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adnxv0LpF1_JjIBA3tL-VGPAYyh6TyHIgAyQiGL8eOhh9C22vl18D0uRuvngpaxcjPY&ccb=10-5&oh=00_AfsUE4r0y6clb8aJl9Sz35l2rm59Bi-OWDMjIT1MXkrZ4Q&oe=69B72BF2&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 9.17
+      },
+      {
+        "image_id": "1635221243692852",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An_eMAQRp-RMxnKC61RRYxq0_iFQsBhdpbb8-hOdpHlIwjKkcmAADOaOsZdM2BEwAAr6ZJ7JnqdvxoOmTBdmT0zMRaWRbfGWxMPPgVB8RF2hkJhgagAOPG2mF1LHYkitqXR6GJfEd9lvePoAa-Jpil4?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdkvrqPBk5m_WBnP0gPH2qVZkXwC9el8VO9wSobObrigEdfc0Y00cN4YyT25l813PLA&ccb=10-5&oh=00_AfvEZen83yzE2ZMNtOTk0SAGlhFbcEg7wglYVQnAkuIfSA&oe=69B7130D&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 6.98
+      },
+      {
+        "image_id": "1704675116739476",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-J72VO3IqYhV8VHmseKnNFLOkwxlYMR0cKwKChH6kSThjTnodLEIaocULNRYtdYP9HFDFvj14XNxHuncIPCsR4fU7vwgR915swvxXEivs_P6jqX0fLN_-DOLb7nQ8HjzP6kry0rkqq4lZCl-epW-M?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdkZk8r1TPVUx7j78sI64Zfhcys4Wa1lvJCWDOWnWhLhegYG0jFc6VapPlnGGHkxd54&ccb=10-5&oh=00_Afuk9LhZ9KlJTXz8Yq57tJ2aQMkyqz9VwkF7en4sWtOfag&oe=69B71F58&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 4.87
+      },
+      {
+        "image_id": "1818481208978862",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-CJmitBBUrv0YduKpHm4bQ8KAaspKZMJuWikAH1zdRO8K_wMA2UzqWCTZ8yUCAk4sjeh9hXxmDZfwMytvgHqGrWkX8Euvga7T3GaodcKe2KR70w8OD88d-qvdDWOyNKCf925bwaz2d5VQDo9NxUg?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adn7ZJa05UJThzxkfdCXS27tOvHycyISjN6v4MUkZidE6sNv9gfxtWDZvHyoN7pzdOY&ccb=10-5&oh=00_AfvrcbQeZ8Xe7LKu3OcSxaPL6-QmTkQXgAA6SPRokgxHow&oe=69B72999&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 5.07
+      },
+      {
+        "image_id": "377928825290165",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An_xFkjExZktbG71SYtf0ain2tXpB-1L3VAUvWAX17rGTUP3NBCNVrsUKYfQkX99kPAqrDQXiYPMSdyqWqCAwbwn-BvvU2N9r-4SAZu5B1ahNtz_g-YTcpSCNhm2XgenjXU3fUNjFzLfsFIhxBAXgQ?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdngXYQzrOPlzGH6nXv9CeK9f6IOJRe6aKyKMqpw1nDGx6eYPt2FNzYh0Vt79ZrCW2w&ccb=10-5&oh=00_AfuXb9AEpihgDo3mgih_jKJDEQyCSFUhTE5Zxa4wCzr_TQ&oe=69B7075E&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 7.22
+      },
+      {
+        "image_id": "386633374399240",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An9rB3enVeh1qcrifTuXwVvswBaLxgySNDvBsU6hIXTK6ifW0Xv9fO4ywU_SIRk8QiKx-7eZIYwaGY8xjWEHXNbh74NUoDMkKDvfWBBtJKv6Syo2ydABNKGk-hQagbKBnPhH0qD8Rew0YW-FzM7mwGA?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdklTIsltLAUwTXDzHptg687peGAdYbjXxO-QpQS9sQtPL13U6avuxgsNn-BoJB4liQ&ccb=10-5&oh=00_AfsIABNwgnfK1PCf24z-V0JEURWfE9wIDbLLY99uhqqJLA&oe=69B71206&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 7.2
+      },
+      {
+        "image_id": "391752809999014",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-HMcfXIKlJsl9rGObXcGhKzNj8pf2phsMfGRs30gUKbJgXnMw7BZVL3jwx-8KRk4rfpRW-w34Vab74gDBPEhG81f4PZVlLeKWMdNeKYrbUsHEYpZcFxFmcJNNh50gilo7X6IpY8kog4IydrFz8cA?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adkj--0n230MjLh7Y8d9DDJg0LYicDPQIxjh6C4ZymGQxWUW2hwo5XUrPfxry_m5YmQ&ccb=10-5&oh=00_AfuGV3AHe9CIrMIt2eGxc2fcmrNwiOuABsTdMMEVXBSPdw&oe=69B723B6&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 8.62
+      },
+      {
+        "image_id": "442899375304177",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An_t8YxAWWlyBpPuf6HhE5qtVo6IIEatG6ymLqucWhiCHaNQlQLS646xfsQuNKRqzlWm9TiJtAMoDyQOCDt2SE8Noz6AVXV5yRhcK11SQ9DJkfAQ99FM545BtT9jNuQaW8sW9DsCXxG-5uvGfNsYwA?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adm9gAwd7_sQnBIJ5ydVdAafTtNhhB-5gPzN2gFg8z4ydYVQL37GqSi3vl4xfaN_7uU&ccb=10-5&oh=00_Afs9WDkdaTpvibaTYPRpbFs3QeGlgPHEa0szBEGToKyJuA&oe=69B70AAF&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 6.35
+      },
+      {
+        "image_id": "555364500323148",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An87cm0fmi0p4ef6Vg8K5icj_YWYyTDTwIXtxApyLF_MvMFkiuyEUSEami--fph85DYs5IOwqpII0duQ0ySnVRTaMm01SO0eiK9vwYZwxdLtFKkLlLVEM1Uk5FtkooXaoY_a6Xcbrk-k1S4YORoYrfM?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdnbePzsd78sOhiAn2C5BL7I_PR-CGRt8gNmxuG5Y2m2M6OWuafQ1SmkOBq7hmqGzLU&ccb=10-5&oh=00_Afv442K_8VR7Gk3nkTjYn_4gmNXhTXRSVV3H5DmtYCQpqw&oe=69B716C9&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 8.98
+      },
+      {
+        "image_id": "579947977808276",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-VE3JsqVtAii8j9D7avFUlJhMN6Xzgn0U1CTP4m5QBbsG7EtafCioTdyeVlURuc3zbXCVMU23NpmdUVY7TokVLGLuq8DaI6mAuXA8J8JehAj86Fz7ukzpn1-wzKT58qsQMHCgErznIElY-RuPdgpA?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdnrSQF5qN7jLGE2AajCoARoB8yqxBAS68sD15o-h1-FSo2ADiclJoIMBRDOUyl8XcA&ccb=10-5&oh=00_AfttnOZYDNADjhJ48NCuOZ9TE9VW8GQyRD3I0txc5SIohA&oe=69B71AA8&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 5.27
+      },
+      {
+        "image_id": "817971733620787",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8TOctY31C_9QvnMwPa3ZZmuF4_BRk9nlzV_MJQy1sky-nM975GVQnZVXqGUYkgm6f9TCq9GKKEGsTaY7y6QjqDfHFgEolim740mdXKENqofajb5zinEVtgULpS-5FCSTviYFp2Nu1Yvc6Hs29G3zA?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdlL3JsPThBSh8nX38tog2c5dIfIGqTzrzi4des98EI2USZ3tqEkvITNzuh_fVGu9Ac&ccb=10-5&oh=00_Afsm66iyU1TQy0qcO2uv5-qnUKF5QcBns9ZUil603-OQDg&oe=69B7011C&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 8.89
+      },
+      {
+        "image_id": "822068049482117",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An-5-dXmTlmdk1nTO7KOkdyxN6Aa0Suaa_jntvLHJiJsyfWAkNGKcF51iF_Xiql8nxhJfGkd6a1Os14-clXGwo4KvZEQeQKS4tpmbmRfjPzF7PPokCtGe8KcTgjMaURVT1C44uSlTXlJjv10TfRdIvk?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdmiWU8IzExuuMvb7jwcQh3G-ZsqQrXhAOyBvVBc7tI-1r1eTuNHSA6Q9BZBGw4Fc9s&ccb=10-6&oh=00_AfsF3MmXBY3WjJBkKjLwRHvtrumRcmavY9XXBy8dqj63fA&oe=69B6F583&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 8.74
+      },
+      {
+        "image_id": "972616804629315",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An8900wk18QIuhqhneJlLG17PYkL1R2on7IYduxgz6tDhkprhPg3DFhP6cae20GTJRRdUSW_mizB-uIa0N_e8pks6dbSfTEn4wg7sWSLCbSbdvAJN57mf5FIy-e1IPf1KjV7O7jAqY5ZU5i82kMp9EU?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=Adm4QCRRgTEhUhtVCRZf3xlxWqpbQu2lOa7QwaFKHlBdACIUx1Wf_FTZxB2q2mgdhLU&ccb=10-5&oh=00_Afu4s-0v4RW33MLGBHJKVtqxSDpg2RVaqei0c_FAi-cljg&oe=69B71625&_nc_sid=201bca",
+        "assigned_building": "way/82245561",
+        "distance_m": 8.27
+      },
+      {
+        "image_id": "985560429722293",
+        "url": "https://scontent-det1-1.xx.fbcdn.net/m1/v/t6/An88CjK6WA-IiYRTjBxxg_JVdulQpcc_jiIakPC5DVKBEU5XC8TxKD_zs17ikrnC0E8i1rtX60dRjE60y-Dc4dSUfu4eMhlcIoTowkTQrAUazBH2q1cEK1Ma2MUVohWQi2REi7B3lccRviF25m1SRA?edm=AOnQwmMEAAAA&_nc_gid=ANjHaUI-mpMBAD1BSWW4-A&_nc_oc=AdnXv9LklfJTRiZVmGpmP9HuvpJ-Fe__CMT7R8V9E_Ot4wicytslLSjuw_6IjNqLo7U&ccb=10-5&oh=00_Afv4R4_85jYYw5Npw6LLJ4AerdH8lARjrIMTtdN4Pb4ABw&oe=69B701F7&_nc_sid=201bca",
+        "assigned_building": "way/82246737",
+        "distance_m": 7.23
+      }
+    ]
+  }
+]
